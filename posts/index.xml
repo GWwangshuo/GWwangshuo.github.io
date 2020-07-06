@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Gavin&#39;s  Blog</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Gavin&#39;s  Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2020 16:58:48 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>TensorRT Installation</title>
+    <link>http://example.org/tensorrt_install/</link>
+    <pubDate>Mon, 06 Jul 2020 16:58:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tensorrt_install/</guid>
+    <description><![CDATA[This tutorial aims to record the procedure of how to install TensorRT on Ubuntu 16.04. For more details, please refer to here.
+Note that the TensorRT relies on the corresponding cuda and cudnn library. Install them using the deb files by following the tutorial in here.
+ Download the TensorRT files from here; Download TensorRT 7.0.0.11 for Ubuntu 16.04 and CUDA 10.2 deb package;  1 2 3 4 5 6 7 8 9 10 11  os=&#34;ubuntu1604&#34; tag=&#34;cuda10.]]></description>
+</item><item>
+    <title>Yolov5 Understanding</title>
+    <link>http://example.org/yolov5_understanding/</link>
+    <pubDate>Mon, 06 Jul 2020 15:09:22 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/yolov5_understanding/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Helmet detection using Yolov5</title>
+    <link>http://example.org/first_post/</link>
+    <pubDate>Mon, 06 Jul 2020 13:34:43 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
