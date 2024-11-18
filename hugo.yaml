@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 # languageCode: bn
-# title: "Gavin's Blog"
+title: "Gavin's Blog"
 
 # Use Hugo modules to add theme
 module:
